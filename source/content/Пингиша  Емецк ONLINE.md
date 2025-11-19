@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Пингиша | Емецк ONLINE","created":"2025-06-15","modified":"2025-11-19T20:23:08.580+03:00","published":null,"tags":["clippings"],"cssclasses":"","source":"http://www.emezk.ru/catalog/pingicha/doc/44/","description":null}
+{"publish":true,"title":"Пингиша | Емецк ONLINE","created":"2025-06-15","modified":"2025-11-19T20:23:08.000+03:00","published":null,"tags":["clippings"],"cssclasses":"","source":"http://www.emezk.ru/catalog/pingicha/doc/44/","description":null}
 ---
 
 Дата: 11 апреля 2009 г.
