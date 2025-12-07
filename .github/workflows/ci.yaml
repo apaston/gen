@@ -42,7 +42,7 @@ jobs:
   deploy:
     needs: build-and-test
     env:
-      THEME_NAME: baseline
+      THEME_NAME: border
     permissions:
       contents: read
       pages: write
